@@ -173,3 +173,6 @@ sq: 0.56
 hi from kwargs
 the Circle is instance of Shape
 ```
+или, тот же фрагмент, но картинкой:
+<img width="1099" height="257" alt="image" src="https://github.com/user-attachments/assets/c0c0b37e-55a1-470f-9af7-fd10d7e07f36" />
+
