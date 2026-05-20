@@ -1,4 +1,5 @@
 1. Итоговый вариант программы на Python:
+   
 ```python
 def shape_density(thing, weight, named_argument_value="this is a plain named argument value"):
     print(named_argument_value)
